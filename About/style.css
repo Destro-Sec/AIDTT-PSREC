@@ -1,0 +1,37 @@
+body {
+  background-color: #01062c;
+}
+
+.seclayer h1 {
+  position: relative;
+  width: 468px;
+  height: 58px;
+  left: 27px;
+  top: 700px;
+
+  font-family: "YouTube Sans Dark";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 58px;
+
+  /* identical to box height */
+
+  color: #53f6c6;
+}
+
+.seclayer p {
+  position: relative;
+  width: 1372px;
+  height: 232px;
+  left: 30px;
+  top: 730px;
+
+  font-family: "YouTube Sans Dark";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
