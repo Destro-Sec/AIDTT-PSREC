@@ -1,0 +1,39 @@
+.footer {
+  width: 100%;
+  height: 500px;
+  background-color: #2d2c2c;
+  position: relative;
+  top: 1000px;
+}
+
+.org h3 {
+  position: absolute;
+  width: 170px;
+  height: 30px;
+  left: 230px;
+  top: 45px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 136%;
+
+  /* identical to box height, or 30px */
+  letter-spacing: 0.045em;
+
+  color: #acae4a;
+}
+
+.org-img {
+    position: absolute;
+    left: 20px;
+}
+
+.org-img img  {
+    width: 166px;
+    height: 166px;
+    position: absolute;
+    top: 99px;
+    left: 62px;
+}

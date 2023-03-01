@@ -1,0 +1,69 @@
+.seclayer {
+  background-image: url("./components/images/clg.png");
+  height: 600px;
+  width: 100%;
+  position: absolute;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  top: 600px;
+  justify-content: center;
+}
+
+.seclayer h1 {
+  position: relative;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+  text-align: center;
+  color: #ffffff;
+  top: 50%;
+}
+
+.thirdlayer {
+  position: relative;
+  top: 1200px;
+  background-color: #01062c;
+  height: auto;
+  width: 100%;
+  overflow: hidden;
+}
+
+.ft p {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: justify;
+    color: #ffffff;
+    top: -128px;
+    width: 66%;
+    left: 63px;
+    position: relative;
+}
+
+.ft img {
+    position: relative;
+    height: 337px;
+    width: 349px;
+    left: 74%;
+    top: 85px;
+}
+
+.st p  {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: justify;
+    color: #ffffff;
+    top: -209px;
+    width: 66%;
+    left: 28%;
+    position: relative;
+}

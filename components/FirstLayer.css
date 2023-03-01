@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Poppins", sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+a img {
+  width: 65px;
+  height: 58px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-item {
+  margin-left: 5rem;
+}
+.nav-link {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 36px;
+  color: white;
+}
+
+.nav-link:hover {
+  color: #482ff7;
+}
+.nav-logo {
+  font-size: 2.1rem;
+  font-weight: 500;
+  color: #482ff7;
+}
+.flayer {
+  background-image: url("./images/Bg_fl.png") ;
+  height: 600px;
+  width: 100%;
+  position: absolute;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.info-header {
+  top: 80px;
+  position: relative;
+  left: 92px;
+}
+
+.info-header h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+
+  /* identical to box height */
+
+  color: #ffa901;
+}
+
+.info-header h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 75px;
+
+  color: #ffffff;
+}
+
+.shadowven {
+  position: relative;
+  width: 440px;
+  height: 46px;
+  top: 10px;
+  background: rgba(81, 80, 124, 0.58);
+  filter: blur(5px);
+  border-radius: 20px;
+}
+
+.shadowvene h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  z-index: 1;
+  color: #ffffff;
+  position: relative;
+  left: 18px;
+  top: -29px;
+}
+
+.brouchere {
+  position: absolute;
+  width: 205px;
+  height: 50px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  background: #53f6c6;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
+
+.register {
+  position: absolute;
+  width: 192px;
+  height: 50px;
+  left: 270px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  background: #53f6c6;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
