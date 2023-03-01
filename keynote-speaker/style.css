@@ -2,7 +2,7 @@ body {
   background-color: #01062c;
 }
 .seclayer {
-  height: 1750px;
+  height: 1350px;
 }
 
 .seclayer h1 {
@@ -57,9 +57,9 @@ body {
 
   font-family: "Poppins";
   font-style: normal;
-  font-weight: 600;
-  font-size: 24px;
-  line-height: 36px;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
 
   color: #ffffff;
 }
@@ -68,12 +68,12 @@ span {
   color: #ffa901;
 }
 
-.prf2 img{
+.prf2 img {
   position: absolute;
   width: 361px;
   height: 361px;
   left: 92px;
-  top: 1782px;
+  top: 1600px;
   border-radius: 80px;
 }
 
@@ -82,7 +82,7 @@ span {
   width: 856px;
   height: 262px;
   left: 505px;
-  top: 1859px;
+  top: 1700px;
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
@@ -96,11 +96,11 @@ span {
   width: 1249px;
   height: 490px;
   left: 100px;
-  top: 2226px;
+  top: 2026px;
   font-family: "Poppins";
   font-style: normal;
-  font-weight: 600;
-  font-size: 24px;
-  line-height: 36px;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
   color: #ffffff;
 }
