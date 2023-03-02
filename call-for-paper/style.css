@@ -2,7 +2,7 @@ body {
   background-color: #01062c;
 }
 .seclayer {
-  height: 500px;
+  height: 630px;
   width: 100%;
   position: relative;
   top: 600px;
@@ -27,25 +27,35 @@ body {
   font-size: 19px;
   line-height: 30px;
   text-align: justify;
-  position: relative;
   width: 558px;
   height: 31px;
-  left: 115px;
-  top: 50px;
   color: #ffffff;
+  list-style-type: disc;
+}
+
+.lf {
+  position: absolute;
+  left: 115px;
+  top: 199px;
 }
 .rt li {
-    font-family: "Poppins";
-    font-style: normal;
-    font-weight: 400;
-    font-size: 19px;
-    line-height: 30px;
-    text-align: justify;
-    position: relative;
-    width: 558px;
-    height: 31px;
-    left: 785px;
-    top: 50px;
-    color: #ffffff;
-  }
-  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  text-align: justify;
+  width: 558px;
+  height: 31px;
+  color: #ffffff;
+  position: relative;
+  left: 785px;
+  top: 50px;
+  list-style-type: disc;
+}
+
+.rt {
+  position: absolute;
+  left: 115px;
+  top: 150px;
+}
