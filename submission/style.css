@@ -36,7 +36,7 @@ body {
   color: #ffffff;
 }
 
-ul {
+.seclayer ul {
   position: absolute;
   top: 1020px;
   font-family: "Poppins";
@@ -48,6 +48,6 @@ ul {
   color: #ffffff;
 }
 
-li {
+.seclayer li {
   list-style-type: disc;
 }
