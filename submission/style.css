@@ -4,15 +4,15 @@ body {
   
   .seclayer h1 {
     position: relative;
-    width: 598px;
+    width: 710px;
     height: 58px;
-    left: 27px;
+    left: 55px;
     top: 700px;
   
-    font-family: "YouTube Sans Dark";
+    font-family: "Poppins";
     font-style: normal;
     font-weight: 500;
-    font-size: 48px;
+    font-size: 36px;
     line-height: 58px;
   
     /* identical to box height */
@@ -23,14 +23,14 @@ body {
   .seclayer p {
     position: relative;
     width: 1372px;
-    height: 232px;
+    height: 155px;
     left: 80px;
     top: 730px;
   
-    font-family: "YouTube Sans Dark";
+    font-family: "Poppins";
     font-style: normal;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 17px;
     line-height: 29px;
   
     color: #ffffff;
@@ -40,7 +40,7 @@ body {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
-    font-size: 19px;
+    font-size: 17px;
     line-height: 30px;
     text-align: justify;
     width: 100%;
@@ -54,5 +54,5 @@ body {
   ul {
     position: absolute;
     left: 82px;
-    top: 1037px;
+    top: 970px;
 }
