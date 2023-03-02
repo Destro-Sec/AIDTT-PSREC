@@ -1,0 +1,51 @@
+body {
+  background-color: #01062c;
+}
+
+.seclayer h1 {
+  position: relative;
+  width: 710px;
+  height: 58px;
+  left: 55px;
+  top: 700px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 58px;
+
+  /* identical to box height */
+
+  color: #53f6c6;
+}
+
+.seclayer p {
+  position: relative;
+  width: 1372px;
+  height: 90PX;
+  left: 80px;
+  top: 730px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.f1 {
+    width: 1279px;
+    height: 364px;
+    position: relative;
+    top: 720px;
+    left: 95px;
+}
+
+.f2 {
+    position: absolute;
+    top: 1510px;
+    left: 95px;
+}
