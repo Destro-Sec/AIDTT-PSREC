@@ -2,7 +2,7 @@ body {
   background-color: #01062c;
 }
 .seclayer {
-  height: 630px;
+  height: 320px;
   width: 100%;
   position: relative;
   top: 600px;
@@ -16,7 +16,7 @@ body {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: 48px;
+  font-size: 36px;
   line-height: 72px;
   color: #53f6c6;
 }
@@ -24,7 +24,7 @@ body {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: 19px;
+  font-size: 17px;
   line-height: 30px;
   text-align: justify;
   width: 558px;
@@ -42,7 +42,7 @@ body {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: 19px;
+  font-size: 17px;
   line-height: 30px;
   text-align: justify;
   width: 558px;
