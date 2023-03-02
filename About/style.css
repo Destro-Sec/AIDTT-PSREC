@@ -7,16 +7,12 @@ body {
   width: 468px;
   height: 58px;
   left: 27px;
-  top: 700px;
-
-  font-family: "YouTube Sans Dark";
+  top: 666px;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
-  font-size: 48px;
+  font-size: 32px;
   line-height: 58px;
-
-  /* identical to box height */
-
   color: #53f6c6;
 }
 
@@ -25,13 +21,11 @@ body {
   width: 1372px;
   height: 232px;
   left: 30px;
-  top: 730px;
-
-  font-family: "YouTube Sans Dark";
+  top: 675px;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
-  font-size: 24px;
+  font-size: 16px;
   line-height: 29px;
-
   color: #ffffff;
 }
