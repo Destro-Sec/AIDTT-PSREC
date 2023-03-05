@@ -26,7 +26,7 @@ body {
   font-weight: 400;
   font-size: 17px;
   line-height: 30px;
-  text-align: justify;
+  text-align: left;
   width: 558px;
   height: 31px;
   color: #ffffff;
@@ -44,12 +44,12 @@ body {
   font-weight: 400;
   font-size: 17px;
   line-height: 30px;
-  text-align: justify;
-  width: 558px;
+  text-align: left;
+  width: 505px;
   height: 31px;
   color: #ffffff;
   position: relative;
-  left: 785px;
+  left: 735px;
   top: 50px;
   list-style-type: disc;
 }

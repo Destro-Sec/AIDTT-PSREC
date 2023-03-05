@@ -25,7 +25,7 @@
 
 .thirdlayer {
   position: relative;
-  top: 1200px;
+  top: 1100px;
   background-color: #01062c;
   height: auto;
   width: 100%;
@@ -70,6 +70,18 @@
 .cent {
   background-color: #01062c;
   height: 500px;
+  position: relative;
+  top: 1200px;
+  width: 100%;
+}
+
+.cent img {
+  position: relative;
+  top: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 1;
 }
 .f2 {
   position: relative;
@@ -84,7 +96,7 @@
   width: 710px;
   height: 58px;
   left: 55px;
-  top: 1265px;
+  top: 55px;
 
   font-family: "Poppins";
   font-style: normal;
@@ -96,3 +108,4 @@
 
   color: #53f6c6;
 }
+

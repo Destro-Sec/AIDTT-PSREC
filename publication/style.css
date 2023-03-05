@@ -1,0 +1,46 @@
+body {
+    background-color: #01062c;
+  }
+  
+  .seclayer h1 {
+    position: relative;
+    width: 468px;
+    height: 58px;
+    left: 27px;
+    top: 666px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 58px;
+    color: #53f6c6;
+  }
+  
+  .seclayer p {
+    position: relative;
+    width: 92%;
+    height: 232px;
+    left: 75px;
+    top: 675px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 29px;
+    color: #ffffff;
+  }
+  .seclayer ul {
+    position: absolute;
+    top: 880px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 29px;
+    left: 175px;
+    color: #ffffff;
+  }
+  
+  .seclayer li {
+    list-style-type: disc;
+  }  
