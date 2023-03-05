@@ -7,10 +7,10 @@ body {
 
 .seclayer h1 {
   position: absolute;
-  width: 414px;
+  width: 454px;
   height: 72px;
   left: 91px;
-  top: 722px;
+  top: 702px;
 
   font-family: "Poppins";
   font-style: normal;
@@ -28,7 +28,7 @@ body {
   width: 856px;
   height: 262px;
   left: 91px;
-  top: 889px;
+  top: 839px;
 
   font-family: "Poppins";
   font-style: normal;
@@ -82,7 +82,7 @@ span {
   width: 856px;
   height: 262px;
   left: 505px;
-  top: 1700px;
+  top: 1650px;
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;

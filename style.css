@@ -67,3 +67,32 @@
     left: 28%;
     position: relative;
 }
+.cent {
+  background-color: #01062c;
+  height: 500px;
+}
+.f2 {
+  position: relative;
+  top: 1300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cent h1 {
+  position: relative;
+  width: 710px;
+  height: 58px;
+  left: 55px;
+  top: 1265px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 58px;
+
+  /* identical to box height */
+
+  color: #53f6c6;
+}
